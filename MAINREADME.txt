@@ -1,2 +1,1 @@
-hello user
 hello this is main
